@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:00BCD4&height=200&section=header&text=Juan%20Diego%20Quimbiulco&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Ecuador&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&c0:238636,100:2ea043&height=200&section=header&text=Juan%20Diego%20Quimbiulco&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Ecuador&descAlignY=55&descSize=18"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Hackathon+%26+Game+Jam+Finalist;Looking+for+my+first+internship;Always+building+something+new+🚀)](https://git.io/typing-svg)
 
@@ -68,15 +68,6 @@ on challenges that push me outside my comfort zone.
 
 ---
 
-## A bit more
-
-I'm at a stage where I know enough to be useful and hungry enough to grow fast.
-I take ownership of what I build, I communicate clearly, and I ask good questions.
-
-If you're looking for someone to bring in as an intern and actually make them part of the team — let's talk.
-
----
-
 ## Contact
 
 <div align="center">
@@ -89,7 +80,7 @@ If you're looking for someone to bring in as an intern and actually make them pa
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:2196F3&height=120&section=footer"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Jdquimbiulco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
 
 </div>
 
