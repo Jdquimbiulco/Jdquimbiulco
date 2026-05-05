@@ -51,28 +51,21 @@ on challenges that push me outside my comfort zone.
 
 ---
 
+
 ## GitHub stats
 
 <div align="center">
 
-[![Juan Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jdquimbiulco&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Jdquimbiulco)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jdquimbiulco&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdquimbiulco&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Jdquimbiulco)
+</div>
 
 </div>
 
 ---
 
-## A bit more
 
-I'm at a stage where I know enough to be useful and hungry enough to grow fast.
-I take ownership of what I build, I communicate clearly, and I ask good questions.
-
-If you're looking for someone to bring in as an intern and actually make them part of the team — let's talk.
-
----
-
-## Contact
+## Contact Me!
 
 <div align="center">
 
