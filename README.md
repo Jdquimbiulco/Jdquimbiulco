@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&c0:238636,100:2ea043&height=200&section=header&text=Juan%20Diego%20Quimbiulco&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Ecuador&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:2ea043&height=200&section=header&text=Juan%20Diego%20Quimbiulco&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Ecuador&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Hackathon+%26+Game+Jam+Finalist;Looking+for+my+first+internship;Always+building+something+new+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ea043&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Hackathon+%26+Game+Jam+Finalist;Looking+for+my+first+internship;Always+building+something+new+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -55,16 +55,19 @@ on challenges that push me outside my comfort zone.
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jdquimbiulco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdquimbiulco&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jdquimbiulco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdquimbiulco&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 
 </div>
 
-<div align="center">
+---
 
-  ![GitHub Streak](https://streak-stats.demolab.com?user=Jdquimbiulco&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+## A bit more
 
-</div>
+I'm at a stage where I know enough to be useful and hungry enough to grow fast.
+I take ownership of what I build, I communicate clearly, and I ask good questions.
+
+If you're looking for someone to bring in as an intern and actually make them part of the team — let's talk.
 
 ---
 
@@ -80,12 +83,12 @@ on challenges that push me outside my comfort zone.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Jdquimbiulco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:238636&height=120&section=footer"/>
 
 </div>
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Jdquimbiulco&color=2196F3&style=flat-square&label=Profile+views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Jdquimbiulco&color=238636&style=flat-square&label=Profile+views)
 
 </div>
