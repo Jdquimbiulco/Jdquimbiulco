@@ -1,9 +1,8 @@
 <div align="center">
 
-# Hi, I'm Juan Diego Quimbiulco 👋
-### Software Engineering Student | Ecuador
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2196F3,100:00BCD4&height=200&section=header&text=Juan%20Diego%20Quimbiulco&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Ecuador&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Hackathon+Finalist;Looking+for+my+first+internship;Always+building+something+new+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Hackathon+%26+Game+Jam+Finalist;Looking+for+my+first+internship;Always+building+something+new+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,15 +10,18 @@
 
 ## About me
 
-I'm a 6th-semester Software Engineering student at Universidad de las Fuerzas Armadas ESPE, Ecuador.
+I'm a Software Engineering student at Universidad de las Fuerzas Armadas ESPE, Ecuador.
 I build things, break things, and learn from both.
 
-I work well under pressure — I've competed in multiple hackathons and reached the finals in all of them.
-I also built and deployed a real website for a non-profit foundation, which taught me more than any classroom project.
+I love picking up new things and I genuinely enjoy working in teams —
+there's something about building with other people that just clicks for me.
+I've competed in hackathons and game jams where, thanks to my amazing teammates,
+we made it to the finals. I'm always learning, always curious, and I like taking
+on challenges that push me outside my comfort zone.
 
-- 🎓 6th semester out of 8 — Universidad de las Fuerzas Armadas ESPE
-- 🌍 Based in Guayaquil, Ecuador
-- 🗣️ Fluent in Spanish and **English**
+- 🎓 Software Engineering — ESPE, Ecuador
+- 🌍 Based in Quito, Ecuador
+- 🗣️ Fluent in Spanish and English
 - 💼 Actively looking for my first internship / preprofessional practice
 - 📱 Currently learning: Python · Mobile development (Android)
 - 🤝 Open to collaborating on real projects
@@ -41,26 +43,11 @@ I also built and deployed a real website for a non-profit foundation, which taug
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 
----
-
-## Featured projects
-
-<div align="center">
-
-| Project | What it is | Stack |
-|---|---|---|
-| [Foundation Website](#) | Built a complete website for a non-profit organization | HTML, CSS, JS |
-| [📚 TC_BooKify](https://github.com/Jdquimbiulco/TC_BooKify) | Library management system with full CRUD | Java |
-| [📱 ESPE Mobile App](https://github.com/Jdquimbiulco/TP_Espe-Mobile_App) | University mobile application | Java / Android |
-| [🌳 ArbolesMulticamino](https://github.com/Jdquimbiulco/ArbolesMulticamino) | Trees: insertion, balancing, traversals in C++ | C++ |
-| [🗓️ Sistema de Citas](https://github.com/Jdquimbiulco/Sistema_Gestion_De_Citas) | Web-based appointment management system | HTML, CSS, JS |
-| [🏆 SprintOne](https://jdquimbiulco.github.io/SprintOne/) | Alura ONE web challenge — live demo | HTML, CSS |
-
-</div>
-
-*Replace `#` on Foundation Website with the actual link once the repo is up.*
+### Game Development
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 
 ---
 
@@ -102,6 +89,12 @@ If you're looking for someone to bring in as an intern and actually make them pa
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Jdquimbiulco&color=blue&style=flat-square&label=Profile+views)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:2196F3&height=120&section=footer"/>
+
+</div>
+
+<div align="center">
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Jdquimbiulco&color=2196F3&style=flat-square&label=Profile+views)
 
 </div>
