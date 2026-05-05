@@ -77,7 +77,8 @@ on challenges that push me outside my comfort zone.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:7B2FBE&height=120&section=footer"/>
+<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:7B2FBE&height=120&section=footer](https://streak-stats.demolab.com?user=Jdquimbiulco&theme=tokyonight&hide_border=true)"/>
+
 
 </div>
 
