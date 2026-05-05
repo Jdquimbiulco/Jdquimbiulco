@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:238636,100:2ea043&height=200&section=header&text=Juan%20Diego%20Quimbiulco&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Ecuador&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,100:A8E6CF&height=200&section=header&text=Juan%20Diego%20Quimbiulco&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Ecuador&descAlignY=55&descSize=18"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2ea043&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Hackathon+%26+Game+Jam+Finalist;Looking+for+my+first+internship;Always+building+something+new+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7B2FBE&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Hackathon+%26+Game+Jam+Finalist;Looking+for+my+first+internship;Always+building+something+new+🚀)](https://git.io/typing-svg)
 
 </div>
 
@@ -55,8 +55,8 @@ on challenges that push me outside my comfort zone.
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jdquimbiulco&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdquimbiulco&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jdquimbiulco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jdquimbiulco&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -83,12 +83,12 @@ If you're looking for someone to bring in as an intern and actually make them pa
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2ea043,100:238636&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A8E6CF,100:7B2FBE&height=120&section=footer"/>
 
 </div>
 
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=Jdquimbiulco&color=238636&style=flat-square&label=Profile+views)
+![Visitor Count](https://komarev.com/ghpvc/?username=Jdquimbiulco&color=7B2FBE&style=flat-square&label=Profile+views)
 
 </div>
