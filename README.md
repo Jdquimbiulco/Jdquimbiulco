@@ -51,21 +51,40 @@ on challenges that push me outside my comfort zone.
 
 ---
 
-
 ## GitHub stats
 
 <div align="center">
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jdquimbiulco&theme=tokyonight)
-
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jdquimbiulco&theme=tokyonight&hide_border=true)](https://github.com/Jdquimbiulco)
 
 </div>
 
 ---
 
+## Contribution snake 🐍
 
-## Contact Me!
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jdquimbiulco/Jdquimbiulco/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jdquimbiulco/Jdquimbiulco/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Jdquimbiulco/Jdquimbiulco/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+## A bit more
+
+I'm at a stage where I know enough to be useful and hungry enough to grow fast.
+I take ownership of what I build, I communicate clearly, and I ask good questions.
+
+If you're looking for someone to bring in as an intern and actually make them part of the team — let's talk.
+
+---
+
+## Contact
 
 <div align="center">
 
@@ -77,8 +96,7 @@ on challenges that push me outside my comfort zone.
 
 <div align="center">
 
-<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:7B2FBE&height=120&section=footer](https://streak-stats.demolab.com?user=Jdquimbiulco&theme=tokyonight&hide_border=true)"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:7B2FBE&height=120&section=footer"/>
 
 </div>
 
