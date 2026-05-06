@@ -65,9 +65,6 @@ on challenges that push me outside my comfort zone.
 
 ---
 
-
----
-
 ## GitHub stats
 
 <div align="center">
