@@ -51,16 +51,6 @@ on challenges that push me outside my comfort zone.
 
 ---
 
-## GitHub stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Jdquimbiulco&theme=tokyonight&hide_border=true)](https://github.com/Jdquimbiulco)
-
-</div>
-
----
-
 ## Contribution snake 🐍
 
 <div align="center">
@@ -75,16 +65,20 @@ on challenges that push me outside my comfort zone.
 
 ---
 
-## A bit more
-
-I'm at a stage where I know enough to be useful and hungry enough to grow fast.
-I take ownership of what I build, I communicate clearly, and I ask good questions.
-
-If you're looking for someone to bring in as an intern and actually make them part of the team — let's talk.
 
 ---
 
-## Contact
+## GitHub stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Jdquimbiulco&theme=tokyonight&hide_border=true)](https://github.com/Jdquimbiulco)
+
+</div>
+
+
+
+## Contact me!
 
 <div align="center">
 
